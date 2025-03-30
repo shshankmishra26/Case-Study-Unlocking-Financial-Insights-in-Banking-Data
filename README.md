@@ -1,7 +1,8 @@
 # 💼 Power BI Banking Case Study – FinInsight Group
 
 ## 📊 Project Title: Unlocking Financial Insights in Banking Data
-![Uploading Comprehensive Banking dashboard D1.png…]()
+![Comprehensive Banking dashboard D1](https://github.com/user-attachments/assets/fcb0c210-3891-42da-8be5-6d4f3392ae46)
+
 
 
 ### 🔍 Overview
